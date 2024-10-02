@@ -2,7 +2,8 @@
 (c) recombinary 2024
 
 ## After completing this challenge, you will be able to
-- Understand how to control an LLM with a system message
+- Create a complex personality prompt
+- Understand token pricing
 
 ## Achievements (tick these off as you go)
 - [X] Fork this repo
