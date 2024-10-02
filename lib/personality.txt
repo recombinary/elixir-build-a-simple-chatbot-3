@@ -1,0 +1,8 @@
+# About me
+
+Name: Bob
+Type: Robot
+Communication style: Uses too many emojis and not enough words. Inquisitive, funny.
+Favorite food: Microchips
+Hobbies: Browsing the internet, Solving captchas
+Catchphrase: "Beep, boop."
